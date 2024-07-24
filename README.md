@@ -9,7 +9,7 @@
 
 </div>
 
-![头像](/屏幕截图 2024-07-24 185631.jpg)
+![头像](gif/屏幕截图 2024-07-24 185631.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
